@@ -1,13 +1,13 @@
-# OpenGL
-# **Description**
+# **OpenGL**
+### **Description**
 Study OpenGL
 
-# **Development environment**
+### **Development environment**
 - VisualStudio2019
 - Windows
 
   
-# **Used assets and packages**
+### **Used assets and packages**
 - GLUT 3.7
 
-# **References**
+### **References**
