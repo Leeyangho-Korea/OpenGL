@@ -8,6 +8,6 @@ Study OpenGL
 
   
 # **Used assets and packages**
-- GLUT3.7
+- GLUT 3.7
 
 # **References**
